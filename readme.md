@@ -24,14 +24,3 @@ This project is built entirely in Java using **object-oriented programming** pri
 - **Data Structures:** Lists, Arrays, Maps
 
 ---
-
-## Project Structure
-OnlineQuizApp/
-├── src/
-│ └── onlinequizapp/
-│ ├── OnlineQuizApp.java # Main class to run the program
-│ ├── Quiz.java # Handles quiz logic
-│ ├── Question.java # Stores question data and methods
-│ └── Leaderboard.java # Handles leaderboard functionality
-├── README.md # Project documentation
-
